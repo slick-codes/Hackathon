@@ -24,8 +24,10 @@ As the population in our communities keeps growing, so does their collective cre
  Where do people leave their litter when they aren’t home and the trash cans on the street are full? You guessed it, on the street itself. Municipalities have a hard time keeping up with these outdoor bins because it is very difficult to figure out when to empty them or whether they are full or not at all.  
 Everything's getting smarter right? So why not your trash bin? This trash bin opens and closes its lid if it sees any rubbish in front of it. You just need to bring the rubbish to it and it'll open automatically and will wait for you to feed it more than after a certain delay it'll close automatically.
 The smart bin will contact its user once it is full with a notification message on your android device and SWM will reject any rubbish once it is full.
+
 The Bonny Sustainable City (BSC)
-	Smart cities use IoT devices such as connected sensors, lights, and meters to collect and analyze data. The cities then use this data to improve infrastructure, public utilities and services, and more. 
+
+Smart cities use IoT devices such as connected sensors, lights, and meters to collect and analyze data. The cities then use this data to improve infrastructure, public utilities and services, and more. 
 The main goal of a smart city is to optimize city functions and promote economic growth while also improving the quality of life for citizens by using smart technologies. A smart city is central to achieving Goal 11 “sustainable cities and communities” of the sustainable development goals.
 The makers will be tasked with building a miniaturized city rigged with smart technology (smart traffic light, motion detectors, solar sensors, etc.) and all powered by solar energy.
 The aim of the make-a-thon is to Inspire, Educate and engage productivity amongst young technologists and entrepreneurs in the ecosystem thereby sustaining the Vision and the Ecosystem.
@@ -33,13 +35,23 @@ The aim of the make-a-thon is to Inspire, Educate and engage productivity amongs
 HACKATHON DETAILS
 Step 1 
 Register to Participate here https://bit.ly/CODEFESTBONNY
+
 Step 2: Attend the Pre Hackathon Meetup on the 1st of December 2021
+
 Step 3: Participate in the Hackathon from the 2nd to the 4th of December 2021
+
 Step 4: Form and Register your Teams
+
 Step 5: Fork this repo https://github.com/Technoville/Hackathon
+
 Step 6: Clone the repo to your computer
+
 Step 7: Create a branch for your project
+
 Step 8: Attend the Hackathon’s workshop and breakout session
+
 Step 9: Create a Pitch Document and Presentation for yout Project
+
 Step 10: Submit your Pitch Document and codebase to the Judges.
+
 Step 11: Winners Annouced.
